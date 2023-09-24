@@ -3,18 +3,26 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=...✨Welcome+stranger✨...;...✨And+make+yourself+at+home✨...)](https://git.io/typing-svg)
 
-</div>
-<!--
-**wangz35/wangz35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div
 
-Here are some ideas to get you started:
+  # Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="你的照片或与你相关的图像的链接" width="350"/>
+
+- 📫 How to reach me: [zwang238@ncsu.edu](mailto:zwang238@ncsu.edu)
+- 😄 Pronouns: Him
+
+## 🔧 Skills & Tools
+
+- **Frontend**: HTML/CSS, [Bootstrap], [JavaScript]
+- **Backend**: [Python], [Sql], [Java], [Ruby]
+- **Databases**: [MongoDB], [Hivesql], [Spark]
+---
+
+<details>
+  <summary>GitHub 统计:</summary>
+
+  ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=wangz35&show_icons=true&hide_border=true)
+
+</details>
+
