@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+stranger;And+make+yourself+at+home)](https://git.io/typing-svg)
 
 <!--
 **wangz35/wangz35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
