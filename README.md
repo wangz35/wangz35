@@ -14,9 +14,9 @@
 
 ## 🔧 Skills & Tools
 
-- **Frontend**: [HTML/CSS], [Bootstrap], [JavaScript]
-- **Backend**: [Python], [Sql], [Java], [Ruby]
-- **Databases**: [MongoDB], [Hivesql], [Spark]
+- **Frontend**: [HTML/CSS], [Bootstrap], [JavaScript], [React.js], [Node.js], [SCSS], [AJAX]
+- **Backend**: [Python], [Sql], [Java], [Ruby], [Flask], [Django], [Rest API], [R]
+- **Databases**: [MongoDB], [Hiveql], [Spark], [Oracle], [ETL], [Kafka]
 ---
 
 <details>
